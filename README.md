@@ -1,6 +1,9 @@
+readmeはあとで書きます。
+
 # Website
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+website実体は https://unimagic-vrc.github.io/InformationHub-MngOuter/ です。
 
 ### Installation
 
