@@ -1,8 +1,8 @@
 {
-  "label": "Tutorial - Basics",
+  "label": "運営中枢向け情報",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "description": "運営中枢向けの、主にドキュメントを書くために必要な情報です。将来的に運営中枢向けの独自Information Hubへ移管します。情報の翻訳にあたり、いくつかの不要な情報を省いています。必要に応じて、Docusaulus公式の情報も確認してください。"
   }
 }
