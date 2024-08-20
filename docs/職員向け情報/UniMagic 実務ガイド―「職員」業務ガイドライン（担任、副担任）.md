@@ -7,17 +7,17 @@ sidebar_position: 1
 
 # 職員の心得え
 
-## **手に負えなくなりそうだったら運営中枢に投げる**
+## **手に負えなくなりそうだったら運営中枢に投げる**  
 
-何かしらヤバそうな事態が発生した場合は、運営中枢メンバーに投げてください。
-@運営中枢でメンションすれば、大体運営の誰かがフォローに飛んできます。
+何かしらヤバそうな事態が発生した場合は、運営中枢メンバーに投げてください。  
+@運営中枢でメンションすれば、大体運営の誰かがフォローに飛んできます。  
 深刻な問題、相談事でなくともお気軽に連絡ください。
 
 ## 生徒とはできる限り平等に接するようにしてください
 
-知り合いで固まらず、たくさんの生徒とコミュニケーションを取るようにしてください。
-コミュニケーションを取る上での方針は各職員にお任せいたします。
-そして、必ずしも職員として生徒と立場をキッチリ分ける意識をする必要は無いです。
+知り合いで固まらず、たくさんの生徒とコミュニケーションを取るようにしてください。  
+コミュニケーションを取る上での方針は各職員にお任せいたします。  
+そして、必ずしも職員として生徒と立場をキッチリ分ける意識をする必要は無いです。  
 究極的には「職員」のお仕事を遂行する上で支障をきたさなければ、
 どんな形であっても問題ありません。
 
@@ -37,15 +37,13 @@ sidebar_position: 1
 
 ## UniMagicは「PC またはPC VR」向けのイベントです
 
-<aside>
-⚠️ **Quest単機等での参加は想定されていません。
-授業内容の関係上、ワールドギミック、アバターギミック等を動作させる場合があり、
-PC向けワールド、アバターを基準に制作されています。
-講師が自由に伸び伸びと教える環境を前提としているため、Quest/Android向けの対応の義務は課しておらず、PC向けの表示ができない機器での参加はコンテンツを視聴することができないことを予めご留意ください。
-また生徒、職員に向けてアバターの負荷対策等の義務も課していないため、
-マシンスペックが低い場合は各自で対処いただく必要がありますので、ご留意ください。**
+:::caution
 
-</aside>
+Quest単機等での参加は想定されていません。  
+授業内容の関係上、ワールドギミック、アバターギミック等を動作させる場合があり、PC向けワールド、アバターを基準に制作されています。  
+講師が自由に伸び伸びと教える環境を前提としているため、Quest/Android/iOS向けの対応の義務は課しておらず、PC向けの表示ができない機器での参加はコンテンツを視聴することができないことを予めご留意ください。  
+また生徒、職員に向けてアバターの負荷対策等の義務も課していないため、マシンスペックが低い場合は各自で対処いただく必要がありますので、ご留意ください。  
+:::
 
 ## 運営との連絡、相談方法
 
@@ -119,7 +117,7 @@ https://obsproject.com/ja/download
 ◆トラブルシューティング
 ・配信ボタンを押して「ホストに到達～」のエラーが出た場合は、「設定」⇒「詳細設定」⇒「ネットワーク」で、以下を設定ください
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/4ddf1e3a-4971-49a9-a4c4-7ea1242d03d2/6ab625ba-dd8a-418d-9783-2594516a9f57/Untitled.png)
+![トラブルシューティング](https://github.com/UniMagic-VRC/InformationHub-MngOuter/blob/master/static/img_Outside_Staff/0001_Streaming_trblsht.png)
 
 ◆OBSの配信設定
 
@@ -127,19 +125,19 @@ OBSからYouTubeに接続する場合は、「ストリームキー連携」と�
 
 いずれの場合も、OBS右下の「設定」を開きましょう。
 
-!https://obs-school.com/wp-content/uploads/2023/07/Group-1-9-1-1024x514.png
+![OBS1](https://github.com/UniMagic-VRC/InformationHub-MngOuter/blob/master/static/img_Outside_Staff/0002_Streaming_obs1.png)
 
 設定を開いたら、「配信」を選択し、配信先を「YouTube-RTMPS」に変更します。
 
 YouTubeに限らず、ライブ配信のプラットフォーム選択を行う場合はサービス名のプルダウンを変更していく作業が必要です。
 
-!https://thats-it.co.jp/wp-content/uploads/2023/10/screenshot-2023-07-27-142308-1024x402-1.png.webp
+![OBS2](https://github.com/UniMagic-VRC/InformationHub-MngOuter/blob/master/static/img_Outside_Staff/0003_Streaming_obs2.png)
 
 OBS Studio上で「ストリームキーを使用」ボタンをクリックし、ストリームキーを入力します。
 
-!https://obs-school.com/wp-content/uploads/2023/07/Group-4-1024x402.png
+![OBS3](https://github.com/UniMagic-VRC/InformationHub-MngOuter/blob/master/static/img_Outside_Staff/0004_Streaming_obs3.png)
 
-!https://obs-school.com/wp-content/uploads/2023/07/Group-5-1024x227.png
+![OBS4](https://github.com/UniMagic-VRC/InformationHub-MngOuter/blob/master/static/img_Outside_Staff/0005_Streaming_obs4.png)
 
 以上で、YouTubeへの連携は完了です。OBS上で「配信開始」ボタンを押すと、ストリームキーを経由してUniMagicのチャンネルで非公開にて配信されます。
 **※生徒より動画の公開を依頼される場合がありますが、職員撮影の動画の公開は不可です。**
@@ -159,7 +157,7 @@ Twitter等の広報用の写真の撮影をお願いします。
 
 実際の広報の投稿は次の日に行われます。
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/4ddf1e3a-4971-49a9-a4c4-7ea1242d03d2/f0a1a58b-5e71-410d-b3e0-4bb723a64565/Untitled.png)
+![Snapshot](https://github.com/UniMagic-VRC/InformationHub-MngOuter/blob/master/static/img_Outside_Staff/0006_Snapshot1.png)
 
 ---
 
@@ -194,14 +192,13 @@ Twitter等の広報用の写真の撮影をお願いします。
 
 修了制作進捗どうですか会は、土日明けて翌週の月、火曜日ごろに開催してください。
 
-<aside>
-💡 **可能であれば「修了制作進捗どうですか会」で各生徒の制作物の規模を把握し、
+:::tip
+**可能であれば「修了制作進捗どうですか会」で各生徒の制作物の規模を把握し、
 修了制作発表会の順番の検討を行っておくと良いです。
 パーティクルライブ等の大規模であったり派手な発表物は後に回す方が良いです。**
+:::
 
-</aside>
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/4ddf1e3a-4971-49a9-a4c4-7ea1242d03d2/2b184428-e297-49bf-a04d-a1a1666676e4/Untitled.png)
+![Calender](https://github.com/UniMagic-VRC/InformationHub-MngOuter/blob/master/static/img_Outside_Staff/0007_GraduationWork_clnd.png)
 
 ---
 
@@ -231,7 +228,7 @@ Twitter等の広報用の写真の撮影をお願いします。
 
 生徒の趣向や観察して気づいたことを書いておくと、あとで役に立つかもしれません(講師へのリマインド時の追加情報や、修了制作など)。
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/4ddf1e3a-4971-49a9-a4c4-7ea1242d03d2/875cd18d-42a1-4aad-82e2-0d31beabe43a/Untitled.png)
+![DailyReport](https://github.com/UniMagic-VRC/InformationHub-MngOuter/blob/master/static/img_Outside_Staff/0008_Daily.png)
 
 ---
 
@@ -267,11 +264,10 @@ Twitter等の広報用の写真の撮影をお願いします。
 
 褒めることは問題ないですが、偏りすぎて初級の方のやる気をそがないように注意が必要だったりします。
 
-<aside>
+:::info
 💡 この趣旨については生徒に伝えることを推奨しています。
 修了制作発表のお題スライドでも説明してはいますが、実態は「思い出作りのお楽しみ会」です。”修了”制作という題目が修了（卒業）の試練というイメージが強すぎるため、堅苦しくとらえられてしまいますが、もっと気楽に取り組んでいただければ良いものだったりします。
-
-</aside>
+:::
 
 ## 修了制作発表の制作の要否
 
@@ -283,7 +279,7 @@ Twitter等の広報用の写真の撮影をお願いします。
 
 教室以外でグループインスタンスを作る際は、問題なければ「〇期講師」も入れてもらいたいです。なお、グループインスタンスの建て方は下記を参考にしてください。
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/4ddf1e3a-4971-49a9-a4c4-7ea1242d03d2/187d8e47-5de2-408f-97fc-9522d36e5541/Untitled.png)
+![GroupInstance](https://github.com/UniMagic-VRC/InformationHub-MngOuter/blob/master/static/img_Outside_Staff/0009_GroupInstance.png)
 
 ---
 
@@ -320,7 +316,7 @@ Twitter等の広報用の写真の撮影をお願いします。
     
     投稿時間帯は任意です。21:00くらいに流しておけばOKじゃないかな？
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/4ddf1e3a-4971-49a9-a4c4-7ea1242d03d2/804500f0-6a25-49e8-af50-b24b770f8af9/Untitled.png)
+    ![Remaind](https://github.com/UniMagic-VRC/InformationHub-MngOuter/blob/master/static/img_Outside_Staff/0010_Reamind.png)
     
     ### ＜インスタンス生成～授業開始前＞
 
@@ -328,7 +324,7 @@ Twitter等の広報用の写真の撮影をお願いします。
     
     運営から職員へのお知らせ、教職員同士の情報共有等の連絡が入る場合があります。
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/4ddf1e3a-4971-49a9-a4c4-7ea1242d03d2/85ff3f8b-742f-417f-a44b-2853213558a2/Untitled.png)
+    ![VoiceInstance](https://github.com/UniMagic-VRC/InformationHub-MngOuter/blob/master/static/img_Outside_Staff/0011_DailyAttendance.png)
     
 - **授業インスタンスを建てる**
 
@@ -336,20 +332,20 @@ Twitter等の広報用の写真の撮影をお願いします。
 
     Groupインスタンス設定済みのURLは運営より配布される
 
-<aside>
-⚠    建てるタイミングが早いのは自由ですが、**遅くとも21:45までには建てておくこと**
-
-</aside>
+:::caution
+建てるタイミングが早いのは自由ですが、**遅くとも21:45までには建てておくこと**
+:::
 
     ※過去の例：インスタンスURLが配布されるので「LAUNCH WORLD」か「INVITE ME」で生成
-    
+    ![ClassInstance](https://github.com/UniMagic-VRC/InformationHub-MngOuter/blob/master/static/img_Outside_Staff/0013_ClassInstance.png)
+
 - **クラス交流の話題となる何かを仕掛ける※任意**
     
     過去期では入口にQvペンで投票お題を出し、対立する選択肢から選んだり、回答を追加するなどして選択した結果を出欠確認の時に回答してもらいました。
     
     例：キノコタケノコ、大判焼き紛争
 
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/4ddf1e3a-4971-49a9-a4c4-7ea1242d03d2/2fad7c5f-7ffd-4df5-89a7-47a78fcd739f/Untitled.png)
+    ![Vote](https://github.com/UniMagic-VRC/InformationHub-MngOuter/blob/master/static/img_Outside_Staff/0012_DiscordVoice.png)
 
 - **授業BGMをiwasyncで流す（勉強の邪魔にならないもの）※任意**
     
@@ -424,7 +420,7 @@ Twitter等の広報用の写真の撮影をお願いします。
 
     ※担当講師の遅刻、時間前に揃っていたので先に出欠を取る等
 
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/4ddf1e3a-4971-49a9-a4c4-7ea1242d03d2/e9c30112-96f5-4653-b301-5d6542593e71/Untitled.png)
+    ![StartChaim](https://github.com/UniMagic-VRC/InformationHub-MngOuter/blob/master/static/img_Outside_Staff/0015_StartChaim.png)
 
     - **出欠の確認**
     
@@ -438,11 +434,10 @@ Twitter等の広報用の写真の撮影をお願いします。
     
     〇〇先生、よろしくお願いします。
     
-    <aside>
-    💡 生徒からの質問が減っている、放課後まとめて質問している、高度な質問が多すぎて基本的な質問がし辛いなどの雰囲気があれば、UniMagicのグローバルルールの確認を、講師への引き継ぎ前に行うと良いです。
+:::caution
+    生徒からの質問が減っている、放課後まとめて質問している、高度な質問が多すぎて基本的な質問がし辛いなどの雰囲気があれば、UniMagicのグローバルルールの確認を、講師への引き継ぎ前に行うと良いです。
     **「分からないことがあれば、流れを止めて質問しよう」**
-    
-    </aside>
+:::
 
 ### ＜授業終了＞
 
@@ -463,10 +458,9 @@ Twitter等の広報用の写真の撮影をお願いします。
 
     ### ＜放課後＞
 
-<aside>
-⚠️ **放課後の活動は完全に任意です。リアルを優先してください！！！**
-
-</aside>
+:::caution
+**放課後の活動は完全に任意です。リアルを優先してください！！！**
+:::
 
 - クラスコミュニティ形成の補助（任意）
     
@@ -474,12 +468,12 @@ Twitter等の広報用の写真の撮影をお願いします。
     
     なお、クラスでワールド巡りに行く際、Groupインスタンスで開くことを推奨します
     
-    <aside>
-    🔥 放課後は質問受付けタイムになるため、熱心なクラスほど質問に時間を取られて、放課後のコミュニティ活動は発生しない場合があります。
+:::danger
+    放課後は質問受付けタイムになるため、熱心なクラスほど質問に時間を取られて、放課後のコミュニティ活動は発生しない場合があります。
     生徒間のコミュニケーションが少ないと感じた場合は、職員主導で遊びの企画をするなり、無理のない範囲で梃入れをお願いします。
     難しい場合は運営中枢にご相談ください。
     
-    </aside>
+:::
 
 ---
 
@@ -531,7 +525,7 @@ Twitter等の広報用の写真の撮影をお願いします。
     - VRChatのアカウントURL（フレンド登録用）
     - クラスルームと雑談の説明
 
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/4ddf1e3a-4971-49a9-a4c4-7ea1242d03d2/8dde4fd8-ddf1-4fba-bbf3-99da4bbbc4ba/Untitled.png)
+    ![Greeting1](https://github.com/UniMagic-VRC/InformationHub-MngOuter/blob/master/static/img_Outside_Staff/0016_ClassRoomGreeting1.png)
 
     - Discord告知②
     
@@ -546,7 +540,7 @@ Twitter等の広報用の写真の撮影をお願いします。
 
     ※てこ入れ「メシテロ」により、クラスの特徴がメシテロで団結したときもあります（良い例
 
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/4ddf1e3a-4971-49a9-a4c4-7ea1242d03d2/c314173b-417c-4eef-997d-ffd46457433d/Untitled.png)
+    ![Greeting2](https://github.com/UniMagic-VRC/InformationHub-MngOuter/blob/master/static/img_Outside_Staff/0016_ClassRoomGreeting2.png)
 
 ---
 
