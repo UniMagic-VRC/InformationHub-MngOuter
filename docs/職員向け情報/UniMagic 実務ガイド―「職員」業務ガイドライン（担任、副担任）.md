@@ -89,10 +89,8 @@ Quest単機等での参加は想定されていません。
 > ○-○担任の○〇です。本日は授業よろしくお願いします！
 > インスタンスは21:45より少し前に開きます。インスタンスが開き次第Joinをお願いします。
 > 何か要望等ありましたら、担任まで連絡いただければ対応させていただきます。
-
-それでは、教室でお待ちしております！
-
 >
+> それでは、教室でお待ちしております！
 
 リマインドを行う際に、クラスの様子や、質問や発言を多くする人などの情報を添えておくと、講師がクラスの雰囲気を掴む一助となります。可能であれば入れるのが望ましいです。
 
@@ -119,7 +117,7 @@ https://obsproject.com/ja/download
 ◆トラブルシューティング
 ・配信ボタンを押して「ホストに到達～」のエラーが出た場合は、「設定」⇒「詳細設定」⇒「ネットワーク」で、以下を設定ください
 
-![トラブルシューティング](https://github.com/UniMagic-VRC/InformationHub-MngOuter/blob/master/static/img_Outside_Staff/0001_Streaming_trblsht.png)
+![トラブルシューティング](/img_Outside_Staff/0001_Streaming_trblsht.png)
 
 ◆OBSの配信設定
 
@@ -127,26 +125,26 @@ OBSからYouTubeに接続する場合は、「ストリームキー連携」と�
 
 いずれの場合も、OBS右下の「設定」を開きましょう。
 
-![OBS1](https://github.com/UniMagic-VRC/InformationHub-MngOuter/blob/master/static/img_Outside_Staff/0002_Streaming_obs1.png)
+![OBS1](/img_Outside_Staff/0002_Streaming_obs1.png)
 
 設定を開いたら、「配信」を選択し、配信先を「YouTube-RTMPS」に変更します。
 
 YouTubeに限らず、ライブ配信のプラットフォーム選択を行う場合はサービス名のプルダウンを変更していく作業が必要です。
 
-![OBS2](https://github.com/UniMagic-VRC/InformationHub-MngOuter/blob/master/static/img_Outside_Staff/0003_Streaming_obs2.png)
+![OBS2](/img_Outside_Staff/0003_Streaming_obs2.png)
 
 OBS Studio上で「ストリームキーを使用」ボタンをクリックし、ストリームキーを入力します。
 
-![OBS3](https://github.com/UniMagic-VRC/InformationHub-MngOuter/blob/master/static/img_Outside_Staff/0004_Streaming_obs3.png)
+![OBS3](/img_Outside_Staff/0004_Streaming_obs3.png)
 
-![OBS4](https://github.com/UniMagic-VRC/InformationHub-MngOuter/blob/master/static/img_Outside_Staff/0005_Streaming_obs4.png)
+![OBS4](/img_Outside_Staff/0005_Streaming_obs4.png)
 
 以上で、YouTubeへの連携は完了です。OBS上で「配信開始」ボタンを押すと、ストリームキーを経由してUniMagicのチャンネルで非公開にて配信されます。
 **※生徒より動画の公開を依頼される場合がありますが、職員撮影の動画の公開は不可です。**
 
 **代わりに生徒が撮影した動画はUniMagicのDiscord内であれば公開可能です。**
 
-**詳しくはQ&Aをご確認ください。**《過去のQ&A回答》　[魔術学舎United　Q&A](https://www.notion.so/United-Q-A-2fa3e3dc8c514bd39075968f35fa4a23?pvs=21)
+**詳しくはQ&Aをご確認ください。** 《過去のQ&A回答》　[魔術学舎United　Q&A](https://www.notion.so/United-Q-A-2fa3e3dc8c514bd39075968f35fa4a23?pvs=21)
 
 ---
 
@@ -160,7 +158,7 @@ Twitter等の広報用の写真の撮影をお願いします。
 
 実際の広報の投稿は次の日に行われます。
 
-![Snapshot](https://github.com/UniMagic-VRC/InformationHub-MngOuter/blob/master/static/img_Outside_Staff/0006_Snapshot1.png)
+![Snapshot](/img_Outside_Staff/0006_Snapshot1.png)
 
 ---
 
@@ -201,7 +199,7 @@ Twitter等の広報用の写真の撮影をお願いします。
 パーティクルライブ等の大規模であったり派手な発表物は後に回す方が良いです。**
 :::
 
-![Calender](https://github.com/UniMagic-VRC/InformationHub-MngOuter/blob/master/static/img_Outside_Staff/0007_GraduationWork_clnd.png)
+![Calender](/img_Outside_Staff/0007_GraduationWork_clnd.png)
 
 ---
 
@@ -231,7 +229,7 @@ Twitter等の広報用の写真の撮影をお願いします。
 
 生徒の趣向や観察して気づいたことを書いておくと、あとで役に立つかもしれません(講師へのリマインド時の追加情報や、修了制作など)。
 
-![DailyReport](https://github.com/UniMagic-VRC/InformationHub-MngOuter/blob/master/static/img_Outside_Staff/0008_Daily.png)
+![DailyReport](/img_Outside_Staff/0008_Daily.png)
 
 ---
 
@@ -282,7 +280,7 @@ Twitter等の広報用の写真の撮影をお願いします。
 
 教室以外でグループインスタンスを作る際は、問題なければ「〇期講師」も入れてもらいたいです。なお、グループインスタンスの建て方は下記を参考にしてください。
 
-![GroupInstance](https://github.com/UniMagic-VRC/InformationHub-MngOuter/blob/master/static/img_Outside_Staff/0009_GroupInstance.png)
+![GroupInstance](/img_Outside_Staff/0009_GroupInstance.png)
 
 ---
 
@@ -302,7 +300,7 @@ Twitter等の広報用の写真の撮影をお願いします。
 
   該当チャンネルに**18~20時までを目途に当日の授業リマインド**の通知をお願いします
 
-  - **授業予告　※任意**
+- **授業予告　※任意**
 
   今日の授業は何をやるか予告をクラスルームへ連絡
 
@@ -312,19 +310,19 @@ Twitter等の広報用の写真の撮影をお願いします。
 
   投稿時間帯は任意です。
 
-  - **生徒からの遅刻欠席連絡の受付　※任意**
+- **生徒からの遅刻欠席連絡の受付　※任意**
 
   Discordのクラスルームを使用して、生徒さんから出欠連絡を受け付けます。
 
   投稿時間帯は任意です。21:00くらいに流しておけばOKじゃないかな？
 
-  ![Remaind](https://github.com/UniMagic-VRC/InformationHub-MngOuter/blob/master/static/img_Outside_Staff/0010_Reamind.png)
+  ![Remaind](/img_Outside_Staff/0010_Reamind.png)
 
-  ### ＜インスタンス生成～授業開始前＞
+### ＜インスタンス生成～授業開始前＞
 
 - **Discordの「教職員-Voice」に入る**
   運営から職員へのお知らせ、教職員同士の情報共有等の連絡が入る場合があります。
-  ![VoiceInstance](https://github.com/UniMagic-VRC/InformationHub-MngOuter/blob/master/static/img_Outside_Staff/0011_DailyAttendance.png)
+  ![VoiceInstance](/img_Outside_Staff/0011_DailyAttendance.png)
 - **授業インスタンスを建てる**
 
   担当クラス専用のGroupインスタンス設定で教室ワールドのインスタンスを建てる
@@ -336,7 +334,7 @@ Twitter等の広報用の写真の撮影をお願いします。
 :::
 
     ※過去の例：インスタンスURLが配布されるので「LAUNCH WORLD」か「INVITE ME」で生成
-    ![ClassInstance](https://github.com/UniMagic-VRC/InformationHub-MngOuter/blob/master/static/img_Outside_Staff/0013_ClassInstance.png)
+    ![ClassInstance](/img_Outside_Staff/0013_ClassInstance.png)
 
 - **クラス交流の話題となる何かを仕掛ける※任意**
 
@@ -344,19 +342,22 @@ Twitter等の広報用の写真の撮影をお願いします。
 
   例：キノコタケノコ、大判焼き紛争
 
-  ![Vote](https://github.com/UniMagic-VRC/InformationHub-MngOuter/blob/master/static/img_Outside_Staff/0012_DiscordVoice.png)
+  ![Vote](/img_Outside_Staff/0012_DiscordVoice.png)
 
 - **授業BGMをiwasyncで流す（勉強の邪魔にならないもの）※任意**
-  授業用のBGMを用意して流す。
-  BGMを用意する理由は、ちょこび先生のファシリテーション講座にて説明があります。
-  なお、必ずしも職員が流す必要はなく、生徒にお願いするのも有です。
+
+  授業用のBGMを用意して流す。  
+  BGMを用意する理由は、ちょこび先生のファシリテーション講座にて説明があります。  
+  なお、必ずしも職員が流す必要はなく、生徒にお願いするのも有です。  
   BGMの種類は勉強の邪魔にならないもの。良識の範囲で自由です！
-  過去流したもの
-  [【ケルト音楽】魔法学校に入学したくなる音楽 - 60分間のファンタジーBGM - 異世界学校](https://www.youtube.com/watch?v=cinMh5l0ARk)
-  [作業用BGM｜爽やかなポップインスト （明るい、フリーBGM、1時間耐久、プレイリスト）](https://www.youtube.com/watch?v=Y4i1RA8VXzc)
-  [【1時間】やる気のない魔女のテーマ『Lethargic Witch』【作業用BGM（？）】](https://www.youtube.com/watch?v=-ZKpGxppwzk)
-  [【1時間】「え」って感じの曲『え』【かわいい・コミカル/作業用BGM】](https://youtu.be/dTJ_m_VugxM?si=q7inrhZSI38MwsCZ)
-  [Blue Echolocation (Blue Archive Fan-made Arrange Album - Full) o29_831](https://www.youtube.com/watch?v=prr6XTLr2wE)
+
+  - 過去流したもの
+    - [【ケルト音楽】魔法学校に入学したくなる音楽 - 60分間のファンタジーBGM - 異世界学校](https://www.youtube.com/watch?v=cinMh5l0ARk)
+    - [作業用BGM｜爽やかなポップインスト （明るい、フリーBGM、1時間耐久、プレイリスト）](https://www.youtube.com/watch?v=Y4i1RA8VXzc)
+    - [【1時間】やる気のない魔女のテーマ『Lethargic Witch』【作業用BGM（？）】](https://www.youtube.com/watch?v=-ZKpGxppwzk)
+    - [【1時間】「え」って感じの曲『え』【かわいい・コミカル/作業用BGM】](https://youtu.be/dTJ_m_VugxM?si=q7inrhZSI38MwsCZ)
+    - [Blue Echolocation (Blue Archive Fan-made Arrange Album - Full) o29_831](https://www.youtube.com/watch?v=prr6XTLr2wE)
+
 - **インスタンス開場告知をDiscordに流す**
 
   インスタンスを開いたら、Discordのクラスルームでクラスメンション付きの開場告知を流す
@@ -376,7 +377,7 @@ Twitter等の広報用の写真の撮影をお願いします。
 
   [動画撮影(配信)](https://www.notion.so/fd04112b5bc544cfa714a3b6c53c32de?pvs=21)
 
-  - **生徒からの質問への回答、または運営中枢、講師への取り次ぎ**
+- **生徒からの質問への回答、または運営中枢、講師への取り次ぎ**
 
   生徒からの質問/相談を受け付け、回答を行ってください
 
@@ -386,17 +387,17 @@ Twitter等の広報用の写真の撮影をお願いします。
 
   ◆授業内容に関する質問：
 
-  基本は講師の方に確認ください。
-  回答できそうな内容や一緒に考えられる内容は、職員の方で対応していただいて構いません。考えたけどわからない場合は、講師やサポートセンターに相談してください。
+  基本は講師の方に確認ください。  
+  回答できそうな内容や一緒に考えられる内容は、職員の方で対応していただいて構いません。考えたけどわからない場合は、講師やサポートセンターに相談してください。  
   その場で講師の方に話を繋げそうならその場で、難しそうなら質問チャネルに代筆 or 書いてみてと伝えて、サポートに投げるべし。
 
   ◆授業内容以外に関する質問：
 
   Discordで「@運営中枢」にメンションを付けて連絡ください。
 
-  ### ＜授業開始時間/22：00＞
+### ＜授業開始時間/22：00＞
 
-  - チャイムを鳴らして着席を促す
+- チャイムを鳴らして着席を促す
 
   教壇側にあるSlidenの右下のベルマークを押すと、チャイムが鳴ります
 
@@ -404,9 +405,9 @@ Twitter等の広報用の写真の撮影をお願いします。
 
   ※担当講師の遅刻、時間前に揃っていたので先に出欠を取る等
 
-  ![StartChaim](https://github.com/UniMagic-VRC/InformationHub-MngOuter/blob/master/static/img_Outside_Staff/0015_StartChaim.png)
+  ![StartChaim](/img_Outside_Staff/0015_StartChaim.png)
 
-  - **出欠の確認**
+- **出欠の確認**
 
   日誌の生徒名簿と照らし合わせて、出席者の確認を行います。
 
@@ -414,22 +415,22 @@ Twitter等の広報用の写真の撮影をお願いします。
 
   出欠確認は、授業時間を圧迫しないよう5分くらいで終わるのが理想です。
 
-  - **講師への引継ぎ**
+- **講師への引継ぎ**
 
   〇〇先生、よろしくお願いします。
 
-:::caution
-生徒からの質問が減っている、放課後まとめて質問している、高度な質問が多すぎて基本的な質問がし辛いなどの雰囲気があれば、UniMagicのグローバルルールの確認を、講師への引き継ぎ前に行うと良いです。
-**「分からないことがあれば、流れを止めて質問しよう」**
-:::
+  :::caution
+  生徒からの質問が減っている、放課後まとめて質問している、高度な質問が多すぎて基本的な質問がし辛いなどの雰囲気があれば、UniMagicのグローバルルールの確認を、講師への引き継ぎ前に行うと良いです。
+  **「分からないことがあれば、流れを止めて質問しよう」**
+  :::
 
 ### ＜授業終了＞
 
 - **運営中枢からのお知らせを伝える**
 
-運営から授業アンケートの依頼や授業日程の変更等のお知らせをDiscordへ投げるため、
+  運営から授業アンケートの依頼や授業日程の変更等のお知らせをDiscordへ投げるため、
 
-もし何かあれば。ホームルームで連絡をお願いします。
+  もし何かあれば。ホームルームで連絡をお願いします。
 
 - **集合写真を撮る**
 
@@ -439,7 +440,7 @@ Twitter等の広報用の写真の撮影をお願いします。
 
   放課後は講師の方への質問タイムやワールド移動の予定があれば、アナウンスをお願いします。
 
-  ### ＜放課後＞
+### ＜放課後＞
 
 :::caution
 **放課後の活動は完全に任意です。リアルを優先してください！！！**
@@ -466,7 +467,7 @@ Twitter等の広報用の写真の撮影をお願いします。
 
   話題に困ったら下記ワールドの利用をお勧めする
 
-[お喋りすごろく Osyaberi Sugoroku by らぃむ（dimebag29）](https://vrchat.com/home/world/wrld_4d2bfac4-f86a-4d55-b768-bba6a4584770)
+  [お喋りすごろく Osyaberi Sugoroku by らぃむ（dimebag29）](https://vrchat.com/home/world/wrld_4d2bfac4-f86a-4d55-b768-bba6a4584770)
 
 - 日程と各自の予定を確認する
 
@@ -501,13 +502,13 @@ Twitter等の広報用の写真の撮影をお願いします。
   - VRChatのアカウントURL（フレンド登録用）
   - クラスルームと雑談の説明
 
-  ![Greeting1](https://github.com/UniMagic-VRC/InformationHub-MngOuter/blob/master/static/img_Outside_Staff/0016_ClassRoomGreeting1.png)
+  ![Greeting1](/img_Outside_Staff/0016_ClassRoomGreeting1.png)
 
-  - Discord告知②
+- Discord告知②
 
   クラスルームからお知らせの入学式の告知リンクへの誘導
 
-  - Discord告知③
+- Discord告知③
 
   数日観察して、生徒の投稿が全くないときは、てこ入れをしてみる
 
@@ -515,7 +516,7 @@ Twitter等の広報用の写真の撮影をお願いします。
 
   ※てこ入れ「メシテロ」により、クラスの特徴がメシテロで団結したときもあります（良い例
 
-  ![Greeting2](https://github.com/UniMagic-VRC/InformationHub-MngOuter/blob/master/static/img_Outside_Staff/0016_ClassRoomGreeting2.png)
+  ![Greeting2](/img_Outside_Staff/0016_ClassRoomGreeting2.png)
 
 ---
 
@@ -536,28 +537,29 @@ Twitter等の広報用の写真の撮影をお願いします。
   入学の祝辞、学長挨拶動画へのつなぎ、職員自己紹介、クラスメイト自己紹介、
   授業期間の説明と言った流れになります。
 
-  ◆前期の流れは下記
+- 前期の流れは下記
 
-  0.スライド開始、入学の祝辞
+  1. スライド開始、入学の祝辞
 
-  1.学長挨拶
-  事前配布する動画を流していただきます。
+  2. 学長挨拶
+     事前配布する動画を流していただきます。
 
-  2.職員/基盤講師の自己紹介
-  自分が何者であるか自己紹介していただきます。詳細は下記を参考に
+  3. 職員/基盤講師の自己紹介
+     自分が何者であるか自己紹介していただきます。詳細は下記を参考に
 
-  3.生徒自己紹介
-  生徒1人1人に自己紹介をしてもらいます。
-  制限時間を明示しておくと長引かないので良いです。
-  話してもらうお題は事前にDiscordで流しておくと良いです。
+  4. 生徒自己紹介
+     生徒1人1人に自己紹介をしてもらいます。
+     制限時間を明示しておくと長引かないので良いです。
+     話してもらうお題は事前にDiscordで流しておくと良いです。
 
-  4.入学者資料説明
-  　下記を資料に沿って説明いただければOKです。
-  ・必修講師紹介（こんな人がいるよ）
-  ・シラバス/授業日程
-  ・Unimagic運営について（こんな人がいるよ）
+  5. 入学者資料説明
+     下記を資料に沿って説明いただければOKです。
 
-  5.集合写真を撮る
+     - 必修講師紹介（こんな人がいるよ）
+     - シラバス/授業日程
+     - Unimagic運営について（こんな人がいるよ）
+
+  6. 集合写真を撮る
 
 - 詳細：自己紹介をする
   スライドを作っている場合は使用してOK。
@@ -565,11 +567,13 @@ Twitter等の広報用の写真の撮影をお願いします。
   Slidenは下記URLにアップロードすると使えます。
   使用方法はSlidenのDiscord参照です。
   良くあるネタは下記
-  　・名前と役職
-  （担任は、職員が生徒をサポートする為にあるということも説明してあげると良い）
-  　・普段何やってる人
-  　・好きな物
-  　・今期の意気込み
+
+  - 名前と役職  
+    （担任は、職員が生徒をサポートする為にあるということも説明してあげると良い）
+  - 普段何やってる人
+  - 好きな物
+  - 今期の意気込み
+
   [Sliden](https://sliden.app/)
 
 ---
@@ -587,10 +591,11 @@ Twitter等の広報用の写真の撮影をお願いします。
   内容を決めるための検討会の進行を行ってください。
 
 - 進捗どうですか会の進行
-  修了制作の進捗確認及び、困っていることの相談に乗る会を開催してください
-  修了制作テーマが金曜日に発表されるので、翌週の月または火曜日に開催すると良いです。
-  内容は各自の進捗を確認して、困っているの人の悩みを聞いて相談に乗ってあげられると良いです。
-  ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/4ddf1e3a-4971-49a9-a4c4-7ea1242d03d2/2b184428-e297-49bf-a04d-a1a1666676e4/Untitled.png)
+
+  修了制作の進捗確認及び、困っていることの相談に乗る会を開催してください  
+  修了制作テーマが金曜日に発表されるので、翌週の月または火曜日に開催すると良いです。  
+  内容は各自の進捗を確認して、困っているの人の悩みを聞いて相談に乗ってあげられると良いです。  
+  ![Untitled](/img_Outside_Staff/0017_Untitled.png)
 
 ---
 
@@ -617,15 +622,16 @@ Twitter等の広報用の写真の撮影をお願いします。
   修了式の司会進行になります。
   事前に運営中枢から行う内容のスライドやURLが配られますので、
   それをSlidenやIwasyncに流してもらう形になります。
-  ◆前期の流れは下記1.学長挨拶
-  事前に動画が配布されるため、それを流していただきます
-  2.UniMagicDirect
-  事前に動画が配布されるため、それを流していただきます
-  3.感想会
-  生徒1人1人に今期の感想をしゃべってもらいます。
-  生徒⇒職員⇒(基盤講師）の流れでやると良いかと思います。
-  **なお、サプライズ系は感想会の前に持ってくると感想に影響が出て良いです。**
-  4.集合写真
+  ◆前期の流れは下記
+  1. 学長挨拶
+     事前に動画が配布されるため、それを流していただきます
+  2. UniMagicDirect
+     事前に動画が配布されるため、それを流していただきます
+  3. 感想会
+     生徒1人1人に今期の感想をしゃべってもらいます。
+     生徒⇒職員⇒(基盤講師）の流れでやると良いかと思います。
+     **なお、サプライズ系は感想会の前に持ってくると感想に影響が出て良いです。**
+  4. 集合写真
 - 3週間クラスを受け持った感想
   3週間の感想を生徒の後で担任、副担任それぞれ発表してもらいます。
   内容を考えておきましょう。
