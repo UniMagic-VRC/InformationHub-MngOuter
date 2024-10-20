@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "依存関係のインストール",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["install"]
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Docusaurusを起動",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "start"]
+    }
+  ]
+}
