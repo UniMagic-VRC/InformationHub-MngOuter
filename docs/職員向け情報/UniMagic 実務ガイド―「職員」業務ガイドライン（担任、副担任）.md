@@ -300,6 +300,11 @@ Twitter等の広報用の写真の撮影をお願いします。
 
 ![GroupInstance](/img_Outside_Staff/0009_GroupInstance.png)
 
+:::caution
+Groupインスタンスは、⑧にリージョン指定があります。
+
+通常のインスタンスの建て方と異なるため、ご注意ください。:::
+
 ---
 
 ## 職員のお仕事内容と流れについて
