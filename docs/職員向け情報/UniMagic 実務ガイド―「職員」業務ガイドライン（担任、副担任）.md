@@ -163,7 +163,7 @@ OBS Studio上で「ストリームキーを使用」ボタンをクリックし�
 
 **詳しくはQ&Aをご確認ください。**
 
-《過去のQ&A回答》　[魔術学舎United_Q&A](https://www.notion.so/United-Q-A-2fa3e3dc8c514bd39075968f35fa4a23?pvs=21)
+《過去のQ&A回答》　[魔術学舎United_Q&A](https://unimagic-vrc.github.io/InformationHub-MngOuter/docs/%E8%81%B7%E5%93%A1%E5%90%91%E3%81%91%E6%83%85%E5%A0%B1/%E9%AD%94%E8%A1%93%E5%AD%A6%E8%88%8EUnited_Q%26A)
 
 ---
 
@@ -237,7 +237,7 @@ Twitter等の広報用の写真の撮影をお願いします。
 
 講師の方に話をつなげるように動きましょう。
 
-《過去のQ&A回答》　[魔術学舎United　Q&A](https://www.notion.so/United-Q-A-2fa3e3dc8c514bd39075968f35fa4a23?pvs=21)
+《過去のQ&A回答》　[魔術学舎United　Q&A](https://unimagic-vrc.github.io/InformationHub-MngOuter/docs/%E8%81%B7%E5%93%A1%E5%90%91%E3%81%91%E6%83%85%E5%A0%B1/%E9%AD%94%E8%A1%93%E5%AD%A6%E8%88%8EUnited_Q%26A)
 
 分からないことや判断に迷った場合は、以下にご連絡、ご相談ください
 
@@ -413,7 +413,7 @@ Groupインスタンスは、⑧にリージョン指定があります。
 
   生徒からの質問/相談を受け付け、回答を行ってください
 
-  《過去のQ&A回答》　[魔術学舎United　Q&A](https://www.notion.so/United-Q-A-2fa3e3dc8c514bd39075968f35fa4a23?pvs=21)
+  《過去のQ&A回答》　[魔術学舎United　Q&A](https://unimagic-vrc.github.io/InformationHub-MngOuter/docs/%E8%81%B7%E5%93%A1%E5%90%91%E3%81%91%E6%83%85%E5%A0%B1/%E9%AD%94%E8%A1%93%E5%AD%A6%E8%88%8EUnited_Q%26A)
 
   分からないことや判断に迷った場合は、以下にご連絡、ご相談ください
 
