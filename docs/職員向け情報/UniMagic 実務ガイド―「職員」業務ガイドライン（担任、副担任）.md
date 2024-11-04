@@ -606,7 +606,8 @@ Groupインスタンスは、⑧にリージョン指定があります。
   - 好きな物
   - 今期の意気込み
 
-  [Sliden](https://sliden.app/)
+  Sliden
+  https://sliden.app/
 
 ---
 
