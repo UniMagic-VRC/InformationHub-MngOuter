@@ -179,6 +179,10 @@ OBS上で「配信開始」ボタンを押すと、ストリームキーを経�
 
 《過去のQ&A回答》　[魔術学舎United_Q&A](https://unimagic-vrc.github.io/InformationHub-MngOuter/docs/%E8%81%B7%E5%93%A1%E5%90%91%E3%81%91%E6%83%85%E5%A0%B1/%E9%AD%94%E8%A1%93%E5%AD%A6%E8%88%8EUnited_Q%26A)
 
+デスクトップモードでVRChat標準の「ストリームカメラ」を使用したい場合は、OBS以外に別のツールのインストールが追加で必要になります。
+詳しくは以下のページを参照してください。
+[【VRChat】デスクトップモードのストリームカメラ使い方を解説！](https://vrnavi.jp/desktop-streamcamera/)
+
 ---
 
 ### 写真撮影
