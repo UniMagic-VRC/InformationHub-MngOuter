@@ -415,7 +415,6 @@ Groupインスタンスは、⑧にリージョン指定があります。
   BGMの種類は勉強の邪魔にならないもの。良識の範囲で自由です！
 
   - 過去流したもの
-    - [【ケルト音楽】魔法学校に入学したくなる音楽 - 60分間のファンタジーBGM - 異世界学校](https://www.youtube.com/watch?v=cinMh5l0ARk)
     - [作業用BGM｜爽やかなポップインスト （明るい、フリーBGM、1時間耐久、プレイリスト）](https://www.youtube.com/watch?v=Y4i1RA8VXzc)
     - [【1時間】やる気のない魔女のテーマ『Lethargic Witch』【作業用BGM（？）】](https://www.youtube.com/watch?v=-ZKpGxppwzk)
     - [【1時間】「え」って感じの曲『え』【かわいい・コミカル/作業用BGM】](https://youtu.be/dTJ_m_VugxM?si=q7inrhZSI38MwsCZ)
