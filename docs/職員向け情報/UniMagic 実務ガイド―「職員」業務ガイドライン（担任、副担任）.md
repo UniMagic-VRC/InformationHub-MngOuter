@@ -419,6 +419,9 @@ Groupインスタンスは、⑧にリージョン指定があります。
     - [【1時間】やる気のない魔女のテーマ『Lethargic Witch』【作業用BGM（？）】](https://www.youtube.com/watch?v=-ZKpGxppwzk)
     - [【1時間】「え」って感じの曲『え』【かわいい・コミカル/作業用BGM】](https://youtu.be/dTJ_m_VugxM?si=q7inrhZSI38MwsCZ)
     - [Blue Echolocation (Blue Archive Fan-made Arrange Album - Full) o29_831](https://www.youtube.com/watch?v=prr6XTLr2wE)
+  
+  - 困ったらPlayList
+    - [RYU ITO MUSIC 作業BGM集](https://www.youtube.com/playlist?list=PLY1HAIrAzeUxbdEYv8vM98Vx0_L9kEM_G)  
 
 - **インスタンス開場告知をDiscordに流す**
 
