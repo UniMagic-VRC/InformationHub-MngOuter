@@ -421,7 +421,11 @@ Groupインスタンスは、⑧にリージョン指定があります。
     - [Blue Echolocation (Blue Archive Fan-made Arrange Album - Full) o29_831](https://www.youtube.com/watch?v=prr6XTLr2wE)
   
   - 困ったらPlayList
-    - [RYU ITO MUSIC 作業BGM集](https://www.youtube.com/playlist?list=PLY1HAIrAzeUxbdEYv8vM98Vx0_L9kEM_G)  
+    - [RYU ITO MUSIC 作業BGM集](https://www.youtube.com/playlist?list=PLY1HAIrAzeUxbdEYv8vM98Vx0_L9kEM_G)
+    - [なぐもりずの音楽室](https://www.youtube.com/watch?v=k3KGC2psl20)
+    - [さりい bgm](https://www.youtube.com/@sari_bgm)
+    - [zukisuzuki BGM](https://www.youtube.com/@zukisuzukiBGM)
+    - [ふぁいの音楽置き場](https://www.youtube.com/@fai_musics)
 
 - **インスタンス開場告知をDiscordに流す**
 
