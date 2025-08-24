@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - uses: actions/setup-node@v4
         with:
           node-version: 20
@@ -29,8 +29,7 @@ jobs:
         run: |
           git diff --exit-code || echo "changes"
 
-      - uses: stefanzweifel/git-auto-commit-action@v3.0.0
+      - uses: stefanzweifel/git-auto-commit-action@v6
         if: steps.git_diff.outputs.changes == 'changes'
         with:
           commit_message: Apply Prettier Change
-          ref: ${{ github.head_ref }}
