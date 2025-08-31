@@ -12,7 +12,8 @@
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
-    "prepare": "lefthook install&&git config core.quotepath false"
+    "prepare": "lefthook install&&git config core.quotepath false",
+    "format": "prettier --write docs/**/*.md src/**/*"
   },
   "dependencies": {
     "@docusaurus/core": "3.4.0",
