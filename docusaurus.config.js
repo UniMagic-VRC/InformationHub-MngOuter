@@ -72,6 +72,16 @@ const config = {
           src: "img/logo.svg",
         },
         items: [
+          {
+            to: "/docs/category/職員向け情報",
+            label: "職員向け情報",
+            position: "left",
+          },
+          {
+            to: "/docs/category/講師向け情報",
+            label: "講師向け情報",
+            position: "left",
+          },
         ],
       },
       footer: {
