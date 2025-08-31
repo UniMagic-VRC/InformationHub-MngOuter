@@ -1,4 +1,4 @@
-name: PR Format
+name: PR lint
 
 on:
   pull_request:
@@ -8,7 +8,7 @@ on:
       - "src/**/*"
 
 jobs:
-  format-check:
+  lint-check:
     runs-on: ubuntu-latest
 
     steps:
