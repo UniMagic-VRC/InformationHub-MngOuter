@@ -5,7 +5,8 @@ on:
     branches:
       - master
     paths:
-      - "**/*.md"
+      - "docs/**/*"
+      - "src/**/*"
 
 jobs:
   format-check:
@@ -21,8 +22,8 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Run Prettier format
-        run: npx prettier --write "./**/*.md"
+      - name: Run formatter
+        run: npm run format
 
       - name: Check for changes
         id: git_diff
