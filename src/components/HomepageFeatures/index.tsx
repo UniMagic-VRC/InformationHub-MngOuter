@@ -1,9 +1,11 @@
-import clsx from "clsx";
 import Heading from "@theme/Heading";
+import clsx from "clsx";
+import type { FunctionComponent, SVGProps } from "react";
 import styles from "./styles.module.css";
 
 const FeatureList = [
   {
+    id: "easy-to-use",
     title: "Easy to Use",
     Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
     description: (
@@ -14,6 +16,7 @@ const FeatureList = [
     ),
   },
   {
+    id: "focus-on-what-matters",
     title: "Focus on What Matters",
     Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
     description: (
@@ -24,6 +27,7 @@ const FeatureList = [
     ),
   },
   {
+    id: "powered-by-react",
     title: "Powered by React",
     Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
     description: (
@@ -33,7 +37,12 @@ const FeatureList = [
       </>
     ),
   },
-];
+] satisfies {
+  id: string;
+  title: string;
+  Svg: FunctionComponent<SVGProps<SVGSVGElement>>;
+  description: JSX.Element;
+}[];
 
 function Feature({ Svg, title, description }) {
   return (
@@ -54,8 +63,8 @@ export default function HomepageFeatures() {
     <section className={styles.features}>
       <div className="container">
         <div className="row">
-          {FeatureList.map((props, idx) => (
-            <Feature key={idx} {...props} />
+          {FeatureList.map((props) => (
+            <Feature key={props.id} {...props} />
           ))}
         </div>
       </div>
