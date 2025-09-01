@@ -1,0 +1,25 @@
+name: PR lint
+
+on:
+  pull_request:
+    branches:
+      - master
+    paths:
+      - "src/**/*"
+
+jobs:
+  lint-check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run linter
+        run: npm run lint
