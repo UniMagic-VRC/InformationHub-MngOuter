@@ -142,9 +142,10 @@ https://obsproject.com/ja/download
 
 Discord用の配信設定は、VRChat用の設定と分けるため、シーンを追加してください。
 
-**基本的な設定は、VRChat用の録画設定と同じですが、上記【VRC用追加手順】は不要です。**
+**基本的な設定は、VRChat用の録画設定と同じです。**
 
 配信設定の「ウィンドウキャプチャ」の選択対象を「VRChat」から「Discord」に設定してください。
+配信設定の「アプリケーション音声キャプチャ」の選択対象を「VRChat」から「Discord」に設定してください。
 
 ![OBS1](/img_Outside_Staff/0001_Streaming.png)
 
