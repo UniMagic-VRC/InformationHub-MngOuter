@@ -121,7 +121,7 @@ Quest単機等での参加は想定されていません。
 以下リンクからインストールをお願いします
 
 https://obsproject.com/ja/download
-
+---
 ◆OBSの設定方法（VRChat用）
 
 [OBS StudioでVRChatを録画してみよう！｜草羽エル-Kusaha.El-](https://note.com/kusahaelv/n/ne23bce9db50a)
@@ -136,22 +136,26 @@ https://obsproject.com/ja/download
 
 参考：[OBS Studioで特定の音だけ配信できる「アプリケーション音声キャプチャ」を徹底解説！](https://castcraft.live/blog/129/)
 
+
+---
 ◆OBSの設定方法（Discord画面）
+
 Discord用の配信設定は、VRChat用の設定と分けるため、シーンを追加してください。
 
-** 基本的な設定は、VRChat用の録画設定と同じですが、上記【VRC用追加手順】は不要です。 **
+**基本的な設定は、VRChat用の録画設定と同じですが、上記【VRC用追加手順】は不要です。**
 
 配信設定の「ウィンドウキャプチャ」の選択対象を「VRChat」から「Discord」に設定してください。
 
 ![OBS1](/img_Outside_Staff/0001_Streaming.png)
 
-
+---
 ◆トラブルシューティング
 
 ・配信ボタンを押して「ホストに到達～」のエラーが出た場合は、「設定」⇒「詳細設定」⇒「ネットワーク」で、以下を設定ください
 
 ![トラブルシューティング](/img_Outside_Staff/0001_Streaming_trblsht.png)
 
+---
 ◆OBSの配信設定
 
 OBSからYouTubeに接続する場合は、「ストリームキー連携」と「アカウント連携」の2つの方法があります。
