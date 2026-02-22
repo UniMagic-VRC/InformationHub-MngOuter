@@ -122,11 +122,11 @@ Quest単機等での参加は想定されていません。
 
 https://obsproject.com/ja/download
 
-◆OBSの設定方法
+◆OBSの設定方法（VRChat用）
 
 [OBS StudioでVRChatを録画してみよう！｜草羽エル-Kusaha.El-](https://note.com/kusahaelv/n/ne23bce9db50a)
 
-**Discord音声を配信に入れないために、追加で以下の設定をお願いします。**
+**【VRC用追加手順】Discord音声を配信に入れないために、追加で以下の設定をお願いします。**
 
 手順①：上記設定方法ページで「ソース」に追加した、「音声出力」キャプチャを削除してください。
 
@@ -135,6 +135,13 @@ https://obsproject.com/ja/download
 手順③：音声ミキサーにある「デスクトップ音声」のスピーカーマークを押してミュートにしてください。（デスクトップ音声が無い場合は対応不要）
 
 参考：[OBS Studioで特定の音だけ配信できる「アプリケーション音声キャプチャ」を徹底解説！](https://castcraft.live/blog/129/)
+
+◆OBSの設定方法（Discord画面）
+Discord用の配信設定は、VRChat用の設定と分けるため、シーンを追加してください。
+** 基本的な設定は、VRChat用の録画設定と同じですが、上記【VRC用追加手順】は不要です。 **
+配信設定の「ウィンドウキャプチャ」の選択対象を「VRChat」から「Discord」に設定してください。
+<img width="1200" height="410" alt="image" src="https://github.com/user-attachments/assets/8cbd7c57-cf85-446a-bb7e-201625f3c8ef" />
+
 
 ◆トラブルシューティング
 
